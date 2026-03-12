@@ -1,4 +1,4 @@
-import api from "./api.js"
+import api from "./api.js";
 
 const ui = {
     async renderizarPensamentos() {
@@ -16,8 +16,8 @@ const ui = {
             `;
   });
         }
-        catch {
-            alert('Erro ao renderizar pensamentos')
+        catch (e){
+            alert('Erro ao renderizar pensamentos' + e)
         }
     }
 }
