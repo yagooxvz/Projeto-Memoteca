@@ -69,6 +69,11 @@
       "id": "0f34",
       "conteudo": "Na minha maquina funciona",
       "autoria": "Dev Yago Souza"
+    },
+    {
+      "id": "059e",
+      "conteudo": "Na volta a gente compra... Não comprou!",
+      "autoria": "Mãe"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
